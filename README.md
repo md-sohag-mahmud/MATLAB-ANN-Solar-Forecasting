@@ -19,7 +19,7 @@ Accurate solar energy forecasting is essential for smart grid stability, energy 
 The mathematical block diagram generated via MATLAB shows the detailed internal architecture of the trained model, mapping 3 input features through 10 hidden neurons using standard activation functions to evaluate the discrete power output:
 
 <p align="center">
- <img src="Results/Function Fitting Neural Network Diagram.png" width="450" alt="MATLAB ANN Diagram"/>
+ <img src="Results/Function Fitting Neural Network.png" width="450" alt="MATLAB ANN Diagram"/>
 </p>
 
 ## 📊 Performance Metrics & Final Results
